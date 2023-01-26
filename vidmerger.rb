@@ -1,9 +1,9 @@
 class Vidmerger < Formula
   desc "Wrapper around ffmpeg which simlifies merging multiple videos 🎞"
   homepage "https://github.com/TGotwig/vidmerger"
-  url "https://github.com/tgotwig/vidmerger/releases/download/0.3.0/vidmerger-linux.tar.gz"
-  version "0.3.0"
-  sha256 "869560a43abb3e6ab0e5a6152b0716d236d41bd02182aa02a83442cc371deab6"
+  url "https://github.com/tgotwig/vidmerger/releases/download/0.3.1/vidmerger-linux.tar.gz"
+  version "0.3.1"
+  sha256 "4639451ab1d31fc509dc950df7f2d1a8f7e718ef6d2d0844f936deba1cf4b74b"
   
   depends_on "ffmpeg"
 
